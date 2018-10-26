@@ -116,6 +116,8 @@ class ViewController: UIViewController, LoginButtonDelegate,UINavigationControll
 //getFacebookUserInfo()
     }
 
+   
+    
     
     func showPhoto() {
         
